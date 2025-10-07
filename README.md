@@ -1,6 +1,10 @@
-This workshop is designed for Architects, Developers and System Engineers who would like to design, build and manage multiple AWS accounts.
 
-This workshop explains how to manage multiple AWS accounts following best practices using existing quick start guides and solutions.
+
+This is designed for Architects, Developers and System Engineers who would like to design, build and manage multiple AWS accounts.
+
+
+
+This explains how to manage multiple AWS accounts following best practices using existing quick start guides and solutions.
 
 Modules|DependsOn|Expected Time
 -------|---------|-------------
